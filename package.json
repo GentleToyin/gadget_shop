@@ -1,0 +1,23 @@
+{
+  "name": "gadgetshop",
+  "version": "1.0.0",
+  "description": "MERN ecommerce app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GentleToyin/gadget_shop.git"
+  },
+  "author": "Gentle Toyin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GentleToyin/gadget_shop/issues"
+  },
+  "homepage": "https://github.com/GentleToyin/gadget_shop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
